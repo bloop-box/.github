@@ -20,13 +20,13 @@ By collecting achievements, attendees can gather points over the course of a con
 
 The hardware is primarily driven by a Raspberry Zero W. Several PCBs have been developed to integrate everything into a neat package. At the moment, the following repositores cover all PCBs:
 
-- [Mainboard](https://github.com/bloop-box/bloop-box-mainboard)
+- [Mainboard](https://github.com/bloop-box/bloop-box-mainboard):
   The primary interface between the Raspberry Zero W and all other components.
 
-- [Tailboard](https://github.com/bloop-box/bloop-box-tailboard)
+- [Tailboard](https://github.com/bloop-box/bloop-box-tailboard):
   Power supply and back IO.
 
-- [LED-Board](https://github.com/bloop-box/bloop-box-led-board)
+- [LED-Board](https://github.com/bloop-box/bloop-box-led-board):
   Multi-color status indicator.
 
 Housing of the components is at the moment up to each convention, as theming of the boxes is naturally very important to most cons.
@@ -35,10 +35,10 @@ Housing of the components is at the moment up to each convention, as theming of 
 
 The software side handled by a client application written in Rust. In consists of the following components:
 
-- [Bloop Box Client](https://github.com/bloop-box/bloop-box-client)
+- [Bloop Box Client](https://github.com/bloop-box/bloop-box-client):
   A small application handling all client side logic.
 
-- [Bloop Box Data Example](https://github.com/bloop-box/bloop-box-data-example)
+- [Bloop Box Data Example](https://github.com/bloop-box/bloop-box-data-example):
   An forkable example project to supply convention-specific audio files for the client.
 
 A generic server component is not part of this project, as integration with an attendee database, achievement handling and so on are extremely unique to every convention.
