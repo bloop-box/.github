@@ -33,7 +33,7 @@ Housing of the components is at the moment up to each convention, as theming of 
 
 ### Software
 
-The software side handled by a client application written in Rust. In consists of the following components:
+The software side contains two major components. The first one is a client application written in Rust. In consists of the following components:
 
 - [Bloop Box Client](https://github.com/bloop-box/bloop-box-client):
   A small application handling all client side logic.
@@ -41,7 +41,10 @@ The software side handled by a client application written in Rust. In consists o
 - [Bloop Box Data Example](https://github.com/bloop-box/bloop-box-data-example):
   An forkable example project to supply convention-specific audio files for the client.
 
-A generic server component is not part of this project, as integration with an attendee database, achievement handling and so on are extremely unique to every convention.
+On the other side there is the server component. The following repositories cover that:
 
-The network protocol which the server has to implemente is [documented here](https://github.com/bloop-box/protocol-spec).
+- [Bloop Server Node](https://github.com/bloop-box/bloop-box-client):
+  A server library implementing the Bloop Box protocol in NodeJS.
+- [Protocol Spec](https://github.com/bloop-box/protocol-spec):
+  Specification of the Bloop Box protocol for when you want to write your own server from scratch.
 
