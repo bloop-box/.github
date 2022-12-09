@@ -41,6 +41,9 @@ The software side contains two major components. The first one is a client appli
 - [Bloop Box Data Example](https://github.com/bloop-box/bloop-box-data-example):
   An forkable example project to supply convention-specific audio files for the client.
 
+- [Bloop Box Config](https://github.com/bloop-box/bloop-box-config):
+  A PWA utility which allows you to configure your Bloop Boxes with NFC tags.
+
 On the other side there is the server component. The following repositories cover that:
 
 - [Bloop Server Node](https://github.com/bloop-box/bloop-box-client):
