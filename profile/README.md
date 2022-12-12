@@ -25,6 +25,9 @@ The hardware is primarily driven by a Raspberry Zero W. Several PCBs have been d
 
 - [Tailboard](https://github.com/bloop-box/bloop-box-tailboard):
   Power supply and back IO.
+  
+- [Tailboard Light](https://github.com/bloop-box/bloop-box-tailboard-light):
+  Simplified version of the Tailboard with no active circuitry.
 
 - [LED-Board](https://github.com/bloop-box/bloop-box-led-board):
   Multi-color status indicator.
