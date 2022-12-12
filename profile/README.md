@@ -10,7 +10,7 @@ The original idea for this game was invented by [NordicFuzzCon](https://nordicfu
 
 Enough history lessions for now, what is this game about? Well, to put it simply: Every attendee has an NFC tag assigned to them. In the case of our two conventions, the NFC tags are integrated into the convention badges, but that's is not a hard requirement.
 
-Attendees can scan their NFC tags at the Bloop Boxes and receive achievements for different tasks. These can be for example blooping after the Guest of Honor, blooping a hundret times in ten minutes or even more obscure challenges. The limit is really only your imagination.
+Attendees can scan their NFC tags at the Bloop Boxes and receive achievements for different tasks. These can be for example blooping after the Guest of Honor, blooping a hundred times in ten minutes or even more obscure challenges. The limit is really only your imagination.
 
 By collecting achievements, attendees can gather points over the course of a convention. What the convention does with that is of course completely up to them.
 
