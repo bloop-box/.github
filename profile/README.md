@@ -29,8 +29,8 @@ The hardware is primarily driven by a Raspberry Zero W. Several PCBs have been d
 - [Tailboard Light](https://github.com/bloop-box/bloop-box-tailboard-light):
   Simplified version of the Tailboard with no active circuitry.
 
-- [LED-Board](https://github.com/bloop-box/bloop-box-led-board):
-  Multi-color status indicator.
+- [LED-Board](https://github.com/bloop-box/bloop-box-led-board-i2c):
+  Multi-color status indicator with I2C.
 
 Housing of the components is at the moment up to each convention, as theming of the boxes is naturally very important to most cons.
 
