@@ -68,6 +68,6 @@ A side project to ease ease registration of NFC UIDs. This is a standalone proje
 - [Firmware](https://github.com/bloop-box/nfc-scanner-firmware):
   Firmware for the RP2040.
 
-- [Browser SDK](https://github.com/bloop-box/nfc-scanner-browser-client):
+- [Browser SDK](https://github.com/bloop-box/nfc-scanner-client-browser):
   SDK for integrating the NFC scanner into browser applications.
 
