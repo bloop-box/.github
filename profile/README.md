@@ -49,8 +49,25 @@ The software side contains two major components. The first one is a client appli
 
 On the other side there is the server component. The following repositories cover that:
 
-- [Bloop Server Node](https://github.com/bloop-box/bloop-box-client):
+- [Bloop Server Node](https://github.com/bloop-box/bloop-server-node):
   A server library implementing the Bloop Box protocol in NodeJS.
+
+- [Bloop Server Tester](https://github.com/bloop-box/bloop-server-tester):
+  Utility for testing requests against a bloop server.
+
 - [Protocol Spec](https://github.com/bloop-box/protocol-spec):
   Specification of the Bloop Box protocol for when you want to write your own server from scratch.
+
+### NFC Scanner
+
+A side project to ease ease registration of NFC UIDs. This is a standalone project which comes with the following components:
+
+- [Hardware](https://github.com/bloop-box/nfc-scanner-hardware):
+  PCB and case design.
+
+- [Firmware](https://github.com/bloop-box/nfc-scanner-firmware):
+  Firmware for the RP2040.
+
+- [Browser SDK](https://github.com/bloop-box/nfc-scanner-browser-client):
+  SDK for integrating the NFC scanner into browser applications.
 
