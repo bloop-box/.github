@@ -18,7 +18,7 @@ By collecting achievements, attendees can gather points over the course of a con
 
 ### Hardware
 
-The hardware is primarily driven by a Raspberry Zero W. Several PCBs have been developed to integrate everything into a neat package. At the moment, the following repositores cover all PCBs:
+The hardware is primarily driven by a Raspberry Pi Zero 2 W. Several PCBs have been developed to integrate everything into a neat package. At the moment, the following repositores cover all PCBs:
 
 - [Mainboard](https://github.com/bloop-box/bloop-box-mainboard):
   The primary interface between the Raspberry Zero W and all other components.
