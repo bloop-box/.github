@@ -4,7 +4,7 @@ Bloop Box is a collaborative project for an NFC-tag based convention game.
 
 ## Tech Talk & Support 
 
-You can join our [Telegram Chat](https://t.me/bloopbox) to talk about Bloop tech
+You can join our [Telegram Chat](https://t.me/+RF0hcS-voGs1ZjMy) to talk about Bloop tech
 or if you need support. We'll also talk about new developments in the Bloop Box
 ecosystem there!
 
