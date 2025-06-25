@@ -2,6 +2,12 @@
 
 Bloop Box is a collaborative project for an NFC-tag based convention game.
 
+## Tech Talk & Support 
+
+You can join our [Telegram Chat](https://t.me/bloopbox) to talk about Bloop tech
+or if you need support. We'll also talk about new developments in the Bloop Box
+ecosystem there!
+
 ## History
 
 The original idea for this game was invented by [NordicFuzzCon](https://nordicfuzzcon.org/) in 2017, known as Blip Box. Two years later, in 2019, [Furvester](https://furvester.org) implemented a very similar system which was called Boop Box. In 2020 both cons decided to join forces and create a common system, which would eventually be open-sourced and made available to any convention which might be interested in it. While the development was on-hold for two years, the entire system eventually realized close to the end of 2022. The name of this joint system is a combination of the prior independent projects.
